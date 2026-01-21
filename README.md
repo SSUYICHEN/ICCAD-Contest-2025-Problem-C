@@ -1,5 +1,5 @@
 #### This is README file for the final project of "Physical Design for Nanometer ICs"
-#### Author: ³¯¤Ñ´I (D11K42001) and ³¯«äÀ[ (R12943161)  
+#### Author: Tian Fu, Chen (D11K42001) and Ssu Yi, Chen (R12943161)  
 #### Date: 2025/06/10
 
 ## Synopsis
